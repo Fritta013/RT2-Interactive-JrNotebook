@@ -5,4 +5,4 @@ This project is part the second assignment for Research Track 1 and the first as
 
 It is important to note that the user can interact with the robot using jupyter notebook while also being able to set target positions for the robot to reach similarly in Research Track assignment 2.
 
-Open the following file to view the jupyternotebook interaction with the UI code: `UI_jpnotebooksimulation.ipynb'
+**Open the following file to view the jupyternotebook interaction with the UI code: `UI_jpnotebooksimulation.ipynb`**
